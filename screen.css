@@ -102,6 +102,10 @@ main {
     background-color: red;
     flex-grow: 1;
 }
+button {
+    background-color: #ff3f3c;
+}
+
 
 .input-container {
     display: block;

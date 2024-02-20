@@ -66,5 +66,10 @@ main {
 
 .details h3 {
     text-align: center;
-    font-size: 55px;
+    font-size: 47px;
+}
+
+.details p ul {
+    text-align: center;
+    font-size: 25px;
 }

@@ -93,6 +93,7 @@ main {
     margin-left: 65px;
     margin-right: 65px;
     margin-bottom: 50px;
+    flex-grow: 1;
 }
 
 .box-input {

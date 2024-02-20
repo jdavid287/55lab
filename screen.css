@@ -80,6 +80,10 @@ main {
     text-align: center;
 }
 
+.cta h3 {
+    font-size: 47px;
+}
+
 .box {
     background-color: lightgrey;
     border-radius: 10px;

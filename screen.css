@@ -86,6 +86,7 @@ main {
 }
 
 .box {
+    display: inline-block;
     background-color: lightgrey;
     border-radius: 10px;
     padding: 20px;

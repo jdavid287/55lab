@@ -88,9 +88,14 @@ main {
 .box {
     background-color: lightgrey;
     border-radius: 10px;
-    text-align: center;
-    font-size: 47px;
-    margin-left: 70px;
-    margin-right: 70px;
+    padding: 20px;
+    display: inline-block;
+    margin-left: 65px;
+    margin-right: 65px;
     margin-bottom: 50px;
 }
+
+.input-container {
+    display: flex;
+}
+

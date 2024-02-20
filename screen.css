@@ -46,6 +46,8 @@ main {
     list-style-type: none;
     margin: 10px 0;
     padding: 0 0 0 40px;
+    text-align: center left;
+    font-size: 35px;
 }
 
 .details ul li.wifi {
@@ -71,5 +73,6 @@ main {
 
 .details p {
     text-align: center left;
-    font-size: 25px;
+    font-size: 35px;
 }
+

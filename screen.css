@@ -77,6 +77,10 @@ main {
 }
 
 .cta {
+    text-align: center;
+}
+
+.box {
     background-color: lightgrey;
     border-radius: 10px;
     text-align: center;

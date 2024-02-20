@@ -85,6 +85,7 @@ main {
     border-radius: 10px;
     text-align: center;
     font-size: 47px;
-    margin-left: 75px;
-    margin-right: 75px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: auto;
 }

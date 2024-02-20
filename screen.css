@@ -95,7 +95,14 @@ main {
     margin-bottom: 50px;
 }
 
+.box-input {
+    padding: 1rem;
+    display: block;
+    color: red;
+}
+
 .input-container {
     display: block;
 }
+
 

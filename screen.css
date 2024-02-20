@@ -96,6 +96,6 @@ main {
 }
 
 .input-container {
-    display: flex;
+    display: block;
 }
 

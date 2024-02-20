@@ -70,6 +70,6 @@ main {
 }
 
 .details p {
-    text-align: center;
+    text-align: center left;
     font-size: 25px;
 }
